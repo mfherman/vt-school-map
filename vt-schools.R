@@ -111,4 +111,4 @@ m <- leaflet() %>%
       )
     )
 
-htmlwidgets::saveWidget(m, "site/vt-schools.html", selfcontained = FALSE)
+htmlwidgets::saveWidget(m, "docs/vt-schools.html", selfcontained = FALSE)
